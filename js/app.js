@@ -7,5 +7,5 @@ function init() {
 
   console.log('selectionData: ', selectionData);
 
-  selectionData.rects();
+  selectionData.scaleAxes();
 }
